@@ -1,0 +1,15 @@
+C:\Users\Byron Caal\Desktop\caseapp\bin\Debug\net6.0\caseapp.exe
+C:\Users\Byron Caal\Desktop\caseapp\bin\Debug\net6.0\caseapp.deps.json
+C:\Users\Byron Caal\Desktop\caseapp\bin\Debug\net6.0\caseapp.runtimeconfig.json
+C:\Users\Byron Caal\Desktop\caseapp\bin\Debug\net6.0\caseapp.dll
+C:\Users\Byron Caal\Desktop\caseapp\bin\Debug\net6.0\caseapp.pdb
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\caseapp.csproj.AssemblyReference.cache
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\caseapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\caseapp.AssemblyInfoInputs.cache
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\caseapp.AssemblyInfo.cs
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\caseapp.csproj.CoreCompileInputs.cache
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\caseapp.dll
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\refint\caseapp.dll
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\caseapp.pdb
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\caseapp.genruntimeconfig.cache
+C:\Users\Byron Caal\Desktop\caseapp\obj\Debug\net6.0\ref\caseapp.dll
